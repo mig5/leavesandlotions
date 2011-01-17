@@ -17,6 +17,7 @@ projects[recaptcha][version] = 1.5
 projects[taxonomy_image][version] = 1.6
 projects[token][version] = 1.15
 projects[views][version] = 2.12
+projects[webform][version] = 3.6
 projects[xmlsitemap][version] = 2.0-beta1
 
 ; Theme
